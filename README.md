@@ -1,3 +1,7 @@
+Latest update:
+-> Model working with two clients.
+-> We need to modify it for multiple clients.
+
 This is the latest update I have done:
 -> The Serverx accepts two Clientx ( Two socket objects created using a single server object). 
 -> This server passes data from socket 1 (Client 1) to client 2 via Socket  2 and data from Socket 2 to Socket 1 (Client 1)
